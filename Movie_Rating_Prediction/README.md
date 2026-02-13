@@ -1,4 +1,4 @@
-#movie rating prediction using python
+#Movie Rating Prediction using Python
 This project predicts movie rating using Machine Learning.
 Linear Regression model is used to train and predict ratings.
 
@@ -7,4 +7,4 @@ Steps involved:
 -Data preprocessing
 -Model training
 -Predction
-Evaluation using Mean Squared Error
+-Evaluation using Mean Squared Error
