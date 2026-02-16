@@ -1,4 +1,5 @@
 # CODSOFT Data Science Internship
+🚀 A collection of real-world Machine Learning projects completed during my CodSoft Data Science Internship, showcasing data analysis, prediction models, and practical problem-solving skills.
 
 👩‍💻 Name: Nayanala Rishitha Sree  
 🎓 Course: B.Tech Data Science  
